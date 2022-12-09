@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @timothy-welch
 - 👀 I’m interested in economics, data science, and the Premier League
-- 🌱 I’m currently learning R and Python
+- 🌱 Always diving deeper into R and Python
 
 <!---
 timothy-welch/timothy-welch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
