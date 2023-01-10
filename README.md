@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @timothy-welch
-- 👀 I’m interested in economics, data science, and the Premier League
+- 👀 I’m interested in economics, finance, public policy, data science, and the English Premier League
 - 🌱 Always diving deeper into R and Python
 
 <!---
